@@ -1,0 +1,85 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Elghrabawy.Elghrabawy" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Competitive+Programmer!;" />
+</h1>
+
+<h3 align="center">I'm Ibrahim Elghrbawy, CS Student👨‍💻, Competitve Programmer🚀</h3>
+
+<br/>
+
+<div align="center">
+ 
+ <!-- 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS** -->
+<!-- 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Elghrabawy/Elghrabawy/issues)** -->
+<!-- 
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
+
+ </div>
+ 
+<div align="center"> 
+  <a href="ibrahim.alghrbawy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ebrahim-mohmed-829132249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.facebook.com/ebrahim.elghrbawy.35/" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://discord.com/channels/@me/653551424269189121" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-5662f6?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ My Competitive Programming Profiles ⚒️</h2>
+<br/>
+<div align="center">
+    <a href="https://codeforces.com/profile/Borhom">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width="6%"/>
+    </a>&emsp; 
+    <a href="https://atcoder.jp/users/Borhom">
+        <img src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder" width="6%"/>
+    </a>&emsp; 
+    <a href="https://leetcode.com/u/Borhom/">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width="6%"/>
+    </a>&emsp;
+</div>
+ 
+<!-- <h2 align="center">⚒️ My Skills ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,bootstrap,html,css,vscode,github,git" />
+
+</div> -->
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-Elghrabawy.vercel.app/?user=Elghrabawy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-Elghrabawy.vercel.app/api?username=Elghrabawy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-Elghrabawy.vercel.app/api/top-langs/?username=Elghrabawy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<br/><br/>
+<hr/>
+<br/>
+<br/>
