@@ -41,18 +41,29 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake.svg" />
-  
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake.svg" />
+   -->
+  <p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake.svg">
+    </picture>
+  </p>
+
+   
   <br/><br/><br/>
 </div>
  <hr/>
- <div align = "center">
+<div align = "center">
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Elghrabawy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <div align=center>
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Elghrabawy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  </div>
+  
 </div>
- </div>
+
 
 <br/><br/>
 
