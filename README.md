@@ -1,11 +1,13 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Competitive+Programmer!;I'm+Software+Developer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Competitive+Programmer!;I'm+Software+Engineer!" />
 </h1>
 
 <h3 align="center">I'm Ibrahim Elghrbawy, CS Student👨‍💻, Competitive Programmer🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elghrabawy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <em>
+    Expert on Codeforces | Full-Stack Developer | CS Student at USC<br/>
+  </em>
 </p>
 
 <br/>
@@ -54,7 +56,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Borhom&theme=github_dark" alt="Codeforces Stats" />
+    
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=borhom&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/borhom)
+
 </div>
 
 <hr/>
