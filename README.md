@@ -55,12 +55,6 @@
 
 <br/>
 
-<div align="center">
-    
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=borhom&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/borhom)
-
-</div>
-
 <hr/>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
