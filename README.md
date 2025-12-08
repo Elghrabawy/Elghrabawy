@@ -32,9 +32,9 @@
 <h2 align="center">🛠️ Tech Stack 🛠️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python,php,bash,html,css,react,nextjs,bootstrap,tailwind,dart,flutter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python,php,bash,html,css,react,nextjs,bootstrap,tailwind,dart,flutter&perline=16" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,postgres,git,github,linux,vscode,visualstudio,docker,postman,vercel,aws,cmake&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,postgres,git,github,linux,vscode,visualstudio,docker,postman,vercel,aws,cmake&perline=16" />
 </div>
 
 <hr/>
