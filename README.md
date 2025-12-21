@@ -51,6 +51,9 @@
     <a href="https://leetcode.com/u/Borhom/">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>&emsp;
+    <a href="https://icpc.global/ICPCID/K8TRZ9KXTJCH">
+        <img src="https://img.shields.io/badge/ICPC ID-25459F?style=for-the-badge&logo=icpc&logoColor=white" alt="ICPC ID"/>
+    </a>&emsp;
 </div>
 
 <br/>
