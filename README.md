@@ -64,7 +64,7 @@
 <br/>
 
   <div align=center>
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Elghrabawy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Elghrabawy&count_private=true&theme=react&border_radius=11" alt="streak stats"/>
   </div>
   
 <hr/>
@@ -74,9 +74,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elghrabawy/Elghrabawy/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elghrabawy/elghrabawy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elghrabawy/elghrabawy/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elghrabawy/elghrabawy/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
